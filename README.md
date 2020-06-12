@@ -126,3 +126,9 @@ There are currently 3 explorers as of your mom
 "value explorer"
 "module explorer"
 
+# CLV_CORE's command console
+
+CLVCORE has a built in command console which features over 100 different commands
+type in "cmds" to take a look at all of them.
+
+
