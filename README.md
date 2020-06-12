@@ -34,3 +34,8 @@ CLV_API is easy to install! Just paste in
 ```
 clv_api = loadstring(game:HttpGet("INSERTLINKHERE", true))()
 ```
+
+With this powerful tool you can spoof any properties.
+
+
+# CLV_CORE
