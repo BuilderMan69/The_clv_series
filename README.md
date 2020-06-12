@@ -61,9 +61,11 @@ right click on it and this gui should pop up
 ![fe640f26b743fa441db2d43388402f71](https://user-images.githubusercontent.com/66844081/84535555-9b0a7780-ad1e-11ea-9f10-8aa564ecbb0e.png)
 
 So from there on we would change the value "15" to 999
+
 ![4165a8c775d633eda74c3eb5691b899c](https://user-images.githubusercontent.com/66844081/84535583-afe70b00-ad1e-11ea-9c34-04e0c9cb81f2.png)
 
 then press enter.
 So now we can see our gun's ammo has been changed to "999"
+
 ![0134e7ec15829c99419ad72726d5dd9b](https://user-images.githubusercontent.com/66844081/84535626-becdbd80-ad1e-11ea-9657-05988b899b72.png)
 
