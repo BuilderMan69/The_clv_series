@@ -69,3 +69,33 @@ So now we can see our gun's ammo has been changed to "999"
 
 ![0134e7ec15829c99419ad72726d5dd9b](https://user-images.githubusercontent.com/66844081/84535626-becdbd80-ad1e-11ea-9657-05988b899b72.png)
 
+That is a simple way to use clv_core to change values
+
+# Creating scripts with clv_core
+
+To generate a script find the value you want to change for this instance MaxAmmo:
+
+![f0cc659dbd9ad26f11f89f1c04e1e90f](https://user-images.githubusercontent.com/66844081/84535504-7f06d600-ad1e-11ea-8462-7b3aefed65ce.png)
+
+So we want to click on the "GunStates" button ontop of MaxAmmo
+and this script will be generated:
+
+```
+-- This script was generated with clvcore
+
+oh_require = require
+oh_path = game.Players.LocalPlayer.M9.GunStates
+oh_old_value = 999
+oh_new_value = ChangeThisToWhatYouWant -- replace this with the new value you want it to change to
+
+oh_PathRequired = oh_require(oh_path)
+
+for _,v in pairs(oh_PathRequired) do
+oh_PathRequired.MaxAmmo = oh_new_value
+end
+
+-- WARNING: SCRIPT MAY NOT WORK AS INTENDED, DO NOT RELY ON THIS FOR 100% FUNCTIONAL SCRIPTS
+```
+
+That is how you make scripts with clv_core.
+
