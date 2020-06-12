@@ -99,3 +99,30 @@ end
 
 That is how you make scripts with clv_core.
 
+> Getting module script sources
+
+To do this right click on the name of the module and a gui should pop up with their source in it
+
+# Viewing localscript funcs/constants
+
+To take a look at localscript stuff type in the command box: "script explorer"
+
+and the explorer will show localscripts in the game.
+
+So click on the one you want to view for this instance we will click on "ChatScript"
+
+![1cf1eb3185a42677b6324d65a67b328a](https://user-images.githubusercontent.com/66844081/84535957-6c40d100-ad1f-11ea-8acf-8bf28c537444.png)
+
+So we take a look at the right side it shows us the functions in the localscript
+
+to look at constants, right click on "ChatScript" and this gui should pop up
+
+![c957bfba36b4352a7e61f89e6a94b7db](https://user-images.githubusercontent.com/66844081/84536009-87abdc00-ad1f-11ea-9664-649035ce4f0e.png)
+
+And that is how you use the script explorer.
+
+There are currently 3 explorers as of your mom
+"script explorer"
+"value explorer"
+"module explorer"
+
