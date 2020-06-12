@@ -84,7 +84,7 @@ and this script will be generated:
 -- This script was generated with clvcore
 
 oh_require = require
-oh_path = game.Players.LocalPlayer.M9.GunStates
+oh_path = game.Players.LocalPlayer.Backpack.M9.GunStates
 oh_old_value = 999
 oh_new_value = ChangeThisToWhatYouWant -- replace this with the new value you want it to change to
 
