@@ -47,5 +47,6 @@ CLV_CORE is a powerful but sleek tool.
 
 ## How to use the module explorer and how to exploit module tables
 
+![fb5736c4afdee173dc09d74eb142f0bf](https://user-images.githubusercontent.com/66844081/84535324-318a6900-ad1e-11ea-8d02-2e148bcbc85c.png)
 
 
