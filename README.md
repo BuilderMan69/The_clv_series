@@ -14,3 +14,23 @@ CLV_API is the next generation easy-to-use api for your scripts.
 property_override(game.Players.LocalPlayer.Character.Humanoid, "WalkSpeed", 1000) -- Changes your walkspeed to "1000"
 property_override(game.Workspace.Baseplate, "Transparency", 1) -- "Changes Baseplate's transparnecy to "1"
 ```
+
+**Editing Modulescript tables**
+```
+require_value_override(game.Players.LocalPlayer.Backpack.M9.GunStates, MaxAmmo, 999) -- Changes the MaxAmmo of the gun to "999"
+```
+
+**Getting a script's constants**
+```
+get_constants(game.Workspace.LocalScript) -- Prints the constants of "LocalScript"
+```
+**Get the contents of a modulescript**
+
+```
+require_gettables(game.Workspace.ModuleScript) -- prints out the contents of "Module script"
+```
+
+CLV_API is easy to install! Just paste in
+```
+clv_api = loadstring(game:HttpGet("INSERTLINKHERE", true))()
+```
