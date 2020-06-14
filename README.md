@@ -43,7 +43,7 @@ With this powerful tool you can spoof any properties.
 
 CLV_CORE is a multi-tool designed to find vulnerbilities in games and helps you exploit them.
 It helps you make scripts and makes all the hard and time consuming things easy.
-CLV_CORE is a powerful but sleek tool.
+CLV_COrE is a powerful but sleek tool.
 
 ## How to use the module explorer and how to exploit module tables
 
