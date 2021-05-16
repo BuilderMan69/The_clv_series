@@ -38,7 +38,7 @@ clv_api = loadstring(game:HttpGet("INSERTLINKHERE", true))()
 With this powerful tool you can spoof any properties.
 
 
-# CLV_CORE
+# CLV_CORE (OLD UI)
 > About
 
 CLV_CORE is a multi-tool designed to find vulnerbilities in games and helps you exploit them.
